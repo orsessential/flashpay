@@ -7,7 +7,7 @@ simple mini wallet service using django rest framework
     http://127.0.0.1:8000/
 
 
-<h3>Assets postman collection</h3>
+<h3>assets postman collection</h3>
 In assets folder
 
 <h3>function:</h3>
@@ -22,7 +22,7 @@ In assets folder
 
 ============================
 
-<h3>Package:</h3>
+<h3>package:</h3>
 
 Django                        2.2.3
 django-model-utils            4.1.1
@@ -32,12 +32,12 @@ decorator                     5.0.9
 decorator                     5.0.9
 pytz                          2019.1
 
-<h3>Setting Environment Project</h3>
+<h3>setting Environment Project</h3>
 
     pip3 install -r requirements.txt
     ./manage.py migrate
     manage.py runserver
     manage.py migrate --run-syncdb
-.. code-block:: bash
+
 
 
